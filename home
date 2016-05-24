@@ -1,0 +1,9 @@
+./private/simple
+<h1>My site</h1>
+<p>Welcome! This is a test website hosted on a pc. The server-side is entirely made from Node.js</p>
+<p>There aren't that many pages on this site yet. So far only these pages have been made:</p>
+<p>
+<ul>
+<li><a href="/error">The error page</a></li>
+</ul>
+</p>

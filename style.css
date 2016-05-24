@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #0099CC;
+	
+	font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+#content  {
+	background-color:#EEE;
+	color:#444;
+	padding:5%;
+	border-radius:10px;
+}
+
+h1 {
+	color: #069;
+	font-size:larger;
+	text-align:center;
+}
+
+p {
+    
+}
+
+a {
+	color:#069;
+	border-bottom: 3px dotted;
+	text-decoration:none;
+}
+a:hover{
+	color:#F90;
+	border-bottom: solid;
+}
